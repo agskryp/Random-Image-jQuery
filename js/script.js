@@ -2,7 +2,7 @@
     "use strict";
     
     var Images = [
-        '../Images/Background---Black-Ice.jpg',
+        'Random-Image-jQuery/Images/Background---Black-Ice.jpg',
         '../Images/Background---Colour-Storm.jpg',
         '../Images/Background---Electric-Water.jpg',
         '../Images/Background---Lime-Drops.jpg',
