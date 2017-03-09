@@ -2,10 +2,10 @@
     "use strict";
     
     var Images = [
-        '/Images/Background---Black-Ice.jpg',
-        '/Images/Background---Colour-Storm.jpg',
-        '/Images/Background---Electric-Water.jpg',
-        '../../Images/Background---Lime-Drops.jpg',
+        'https://agskryp.github.io/Random-Image-jQuery/Images/Background---Black-Ice.jpg',
+        'https://agskryp.github.io/Random-Image-jQuery/Images/Background---Colour-Storm.jpg',
+        'https://agskryp.github.io/Random-Image-jQuery/Images/Background---Electric-Water.jpg',
+        'https://agskryp.github.io/Random-Image-jQuery/Images/Background---Lime-Drops.jpg',
         '../../Images/Background---Natural-Bubbles.jpg',
         '../../Images/Background---Nice-Try.jpg',
         '../Images/Background---Peach-Hexagon.jpg',
