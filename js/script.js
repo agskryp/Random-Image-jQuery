@@ -6,7 +6,7 @@
         'https://agskryp.github.io/Random-Image-jQuery/Images/Background---Colour-Storm.jpg',
         'https://agskryp.github.io/Random-Image-jQuery/Images/Background---Electric-Water.jpg',
         'https://agskryp.github.io/Random-Image-jQuery/Images/Background---Lime-Drops.jpg',
-        '../../Images/Background---Natural-Bubbles.jpg',
+        'https://agskryp.github.io/Random-Image-jQuery/Images/Background---Natural-Bubbles.jpg',
         '../../Images/Background---Nice-Try.jpg',
         '../Images/Background---Peach-Hexagon.jpg',
         '../Images/Background---Room-303.jpg'
